@@ -1,0 +1,13 @@
+h1{
+    font-size: 21px;
+    color: lightblue;
+    background-color: cornsilk;
+}
+a{
+    background-color: cornsilk;
+    color: lightblue;
+    font-size: 10px;
+}
+body{
+    background-size: cover;
+}

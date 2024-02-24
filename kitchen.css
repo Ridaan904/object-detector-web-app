@@ -1,0 +1,21 @@
+#status{
+    font-size: 10px;
+    background-color: azure;
+    text-align: center;
+    color: blue;
+}
+body{
+    background-size: cover;
+}
+#back{
+    background-color: blue;
+}
+canvas{
+    border-color: black;
+    box-shadow: 10px 10px 10px grey;
+}
+h1{
+    color: blueviolet;
+    background-color: lightcyan;
+    font-size: 22px;
+}
